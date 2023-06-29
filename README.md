@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, eu sou o Gabriel</h1>
 
-- 📫 Você me acha **gabeerieff@gmail.com**
+- 📫 Você me acha **gabrilrieff1@gmail.com**
 
 
 
