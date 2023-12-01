@@ -1,4 +1,4 @@
-<img src="C:\Desenvolvimento\banner.png">
+<img src="./banner.png">
 
 <br>
 <div>Trabalhando com desenvolvimento front-end desde de 2022, contribuindo com
