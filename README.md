@@ -1,10 +1,11 @@
 <img src="./banner.png">
 
 <br>
-<div>Trabalhando com desenvolvimento front-end desde de 2022, contribuindo com
-desenvolvimento de software na área portuária e em outros projetos, usando
-tecnologias como HTML, CSS, Javascript, React, nodeJs e typescript, visando me
-tornar um profissional mais experiente.</div>
+<div>Olá, sou Gabriel graduando em Análise e desenvolvimento de sistemas, atuo a mais de 2 anos como desenvolvimento de software.
+
+Sou organizado, tenho bom relacionado interpessoal, boa capacidade de análise de problemas e cenários críticos. Sempre muito disposto a aprender e ajudar as pessoas, pensando no crescimento da equipe.
+
+Hoje atuo principalmente com desenvolvimento front-end, mas desempenho também papel de back-end quando necessário. Estudando e praticando com foco em desenvolvimento back-end, para me tornar um desenvolvedor com capacidade de trabalhar do início ao fim de um sistema.</div>
 <br>
 
 > #### Contatos
