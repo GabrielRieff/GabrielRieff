@@ -2,10 +2,9 @@
 
 <br>
 <div>Olá, sou Gabriel graduando em Análise e desenvolvimento de sistemas, atuo a mais de 2 anos como desenvolvimento de software.
+Sou organizado, bom relacionado interpessoal, capacidade de análise de problemas e cenários críticos. Sempre muito disposto a aprender e ajudar.
 
-Sou organizado, tenho bom relacionado interpessoal, boa capacidade de análise de problemas e cenários críticos. Sempre muito disposto a aprender e ajudar as pessoas, pensando no crescimento da equipe.
-
-Hoje atuo principalmente com desenvolvimento front-end, mas desempenho também papel de back-end quando necessário. Estudando e praticando com foco em desenvolvimento back-end, para me tornar um desenvolvedor com capacidade de trabalhar do início ao fim de um sistema.</div>
+Atuo principalmente com desenvolvimento front-end, mas desempenho também papel de back-end quando necessário. Estudando e praticando com foco em desenvolvimento back-end, para me tornar um desenvolvedor com capacidade de trabalhar do início ao fim de um sistema.</div>
 <br>
 
 > #### Contatos
