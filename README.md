@@ -1,5 +1,3 @@
-<img src="./banner.png">
-
 <br>
 <div>Olá, sou Gabriel graduando em Análise e desenvolvimento de sistemas, atuo a mais de 2 anos como desenvolvimento de software.
 Sou organizado, bom relacionado interpessoal, capacidade de análise de problemas e cenários críticos. Sempre muito disposto a aprender e ajudar.
