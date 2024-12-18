@@ -13,7 +13,7 @@ Sou uma pessoa organizada e com habilidades interpessoais desenvolvidas, o que m
 
 Atuo como desenvolvedor fullstack, utilizando uma variedade de tecnologias, incluindo HTML, CSS, JavaScript/TypeScript, React, .NET, Node.js e MySQL. Estou sempre em busca de expandir meu conhecimento sobre as tecnologias que uso e de me aprofundar em estruturas e padrões de projeto.
 
-## ⚙️ Tach skill
+## ⚙️ Tech skill
 <div align="center">
     <img src="./img-github.png" target="_blank">
 </div>
